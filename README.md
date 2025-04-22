@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hasan 👋</h1>
 
 <p align="center">
-  💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan  
+  💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan <br/>
   🎯 Focused on clean design, scalable code, and creative digital experiences
 </p>
 
