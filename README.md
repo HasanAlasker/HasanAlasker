@@ -25,13 +25,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects On My Portfolio
 
+- 🌐 [Hasan's Portfolio](https://hasan-alasker.netlify.app/) 
 
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hasan-alasker-58682335a/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/))
 - 🌐 [Portfolio Website](https://hasan-alasker.netlify.app/) 
 - ✉️ Email: HasanAlasker.contact@gmail.com
 
