@@ -31,9 +31,9 @@
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your actual profile)*
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(or Netlify link)*
-- ✉️ Email: your.email@example.com *(or contact form)*
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hasan-alasker-58682335a/)) 
+- 🌐 [Portfolio Website](https://hasan-alasker.netlify.app/) 
+- ✉️ Email: HasanAlasker.contact@gmail.com
 
 ---
 
