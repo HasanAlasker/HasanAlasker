@@ -3,7 +3,7 @@
 <p align="center">
   💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan <br/>
   🎯 Focused on clean design, scalable code, and creative digital experiences
-</p>
+</p><br/>
 
 ---
 
