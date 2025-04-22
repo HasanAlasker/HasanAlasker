@@ -9,8 +9,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
@@ -24,7 +23,6 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-</p>
 
 ---
 
