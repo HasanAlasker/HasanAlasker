@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Hasan 👋</h1>
+<h1 align="center">Hey there, I'm Hasan 👋</h1><br/>
 
 <p align="center">
   💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan <br/>
