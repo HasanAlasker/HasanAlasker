@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm ![Static Badge](https://img.shields.io/badge/Hasan%20Alasker) 👋</h1><br/>
+<h1 align="center">Hey there, I'm <img src="https://img.shields.io/badge/Hasan%20Alasker" alt="Hasan Alasker Badge"> 👋</h1><br/>
 
 
 <p align="center" color="blue">
