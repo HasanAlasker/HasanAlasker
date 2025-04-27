@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Hasan 👋</h1><br/>
 
-<p align="center">
+<p align="center" color="blue">
   💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan <br/>
   🎯 Focused on clean design, scalable code, and creative digital experiences
 </p><br/>
