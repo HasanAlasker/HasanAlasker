@@ -1,4 +1,5 @@
 <h1 align="center">Hey there, I'm Hasan 👋</h1><br/>
+![Static Badge](https://img.shields.io/badge/Hasan%20Alasker)
 
 <p align="center" color="blue">
   💻 UI/UX Designer | 🧠 Front-end Developer | 👨‍🔬 Software Engineer | 🌍 Based in Jordan <br/>
