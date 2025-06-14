@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hasan Alasker 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
+  <img src="https://avatars.githubusercontent.com/u/HasanAlasker" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
 </p>
 
 <p align="center">
@@ -68,6 +68,10 @@
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
+> <p align="center" style="color: #8af8f8; font-style: italic; font-size: 1.2em;">
+> “An idiot admires complexity, while a genius appreciates simplicity.”
+> </p>
 
 ---
 
