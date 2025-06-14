@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hasan Alasker 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/HasanAlasker" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
+  <img src="[https://avatars.githubusercontent.com/u/](https://avatars.githubusercontent.com/u/148560423?v=4)" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - ✉️ Contact: hasanalasker.contact@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
 
-> 💬 *“A genius appreciates simplicity. An idiot complicates everything.”*
+<h2>*“An idiot admires complexity, while a genius appreciates simplicity.”*</h2> 
 
 ---
 
@@ -69,9 +69,7 @@
   </a>
 </p>
 
-> <p align="center" style="color: #8af8f8; font-style: italic; font-size: 1.2em;">
-> “An idiot admires complexity, while a genius appreciates simplicity.”
-> </p>
+
 
 ---
 
