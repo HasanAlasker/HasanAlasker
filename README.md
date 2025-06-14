@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hasan Alasker 👋</h1>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/](https://avatars.githubusercontent.com/u/148560423?v=4)" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
+  <img src="https://avatars.githubusercontent.com/u/148560423" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
 </p>
 
 <p align="center">
