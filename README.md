@@ -20,7 +20,7 @@
 - ✉️ Contact: hasanalasker.contact@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
 
-<h2>*“An idiot admires complexity, while a genius appreciates simplicity.”*</h2> 
+<h2>“An idiot admires complexity, while a genius appreciates simplicity.”</h2> 
 
 ---
 
