@@ -16,7 +16,7 @@
 - 🎨 Front-End Engineer and UI/UX Designer with a passion for clean, impactful interfaces  
 - 🌍 Based in Jordan  
 - 🌐 Built numerous professional websites, currently focusing on cross-platform mobile development  
-- 📁 Portfolio: [hasan-alasker.netlify.app](https://hasan-alasker.netlify.app)  
+- 📁 [Portfolio: ](https://hasan-alasker.netlify.app)  
 - ✉️ Contact: hasanalasker.contact@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
 
