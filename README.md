@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Front-End Engineer</strong> • <strong>UI/UX Designer</strong> • <strong>Software Engineer</strong><br/>
+  <strong>Front-End Engineer</strong> • <strong>UI/UX Designer</strong> • <strong>Mobile Developer</strong> • <strong>Software Engineer</strong><br/>
   Based in Jordan 🇯🇴
 </p>
 
