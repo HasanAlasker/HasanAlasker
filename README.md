@@ -15,7 +15,7 @@
 
 - 🎨 Front-End Engineer and UI/UX Designer with a passion for clean, impactful interfaces  
 - 🌍 Based in Jordan  
-- 🌐 Built numerous professional websites, currently focusing on cross-platform mobile development  
+- 🌐 Developed multiple professional websites, with a current focus on cross-platform mobile development. 
 - 📁 [Hasan's Portfolio](https://hasan-alasker.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
 - ✉️ Contact: hasanalasker.contact@gmail.com  
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -51,14 +50,13 @@
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-
-
-
-
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
 
 </p>
+---
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanalasker&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalasker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
