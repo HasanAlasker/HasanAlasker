@@ -54,9 +54,9 @@
 
 </p>
 ---
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanalasker&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalasker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault%20Contributor-0078D4?style=for-the-badge&logo=snowflake"/>
+<img src="https://img.shields.io/badge/Achievement-GitHub%20Star-yellow?style=for-the-badge&logo=star"/>
 
 ---
 
