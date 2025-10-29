@@ -51,9 +51,11 @@
   <a href="https://hasan-alasker.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/hasan-alasker-58682335a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  
   <a href="mailto:hasanalasker.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
   </a>
