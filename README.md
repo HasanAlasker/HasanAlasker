@@ -1,26 +1,55 @@
-<h1 align="center">Hey there, I'm Hasan Alasker 👋</h1>
+<h1 align="center">Hasan Alasker</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148560423" width="150" style="border-radius: 50%" alt="Hasan Alasker profile picture"/>
+  <img src="https://avatars.githubusercontent.com/u/148560423" width="150" style="border-radius: 50%" alt="Hasan Alasker"/>
 </p>
 
 <p align="center">
-  <strong>Front-End Engineer</strong> • <strong>UI/UX Designer</strong> • <strong>Full-Stack developer</strong> • <strong>Mobile Developer</strong> • <strong>Software Engineer</strong><br/>
-  Based in Jordan 🇯🇴
+  <strong>Front-End Engineer</strong> • <strong>Full-Stack Developer</strong> • <strong>Mobile Developer</strong><br/>
+  Building cross-platform experiences that matter 🚀
 </p>
+
+<h3 align="center">
+  <em>"An idiot admires complexity, while a genius appreciates simplicity."</em>
+</h3>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 What I'm Up To
 
-- 🎨 Front-End Engineer and UI/UX Designer with a passion for clean, impactful interfaces  
-- 🌍 Based in Jordan  
-- 🌐 Developed multiple professional websites, with a current focus on cross-platform mobile development. 
-- 📁 [Hasan's Portfolio](https://hasan-alasker.netlify.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
-- ✉️ hasanalasker.contact@gmail.com  
+I'm deep in the **MERN + React Native** ecosystem, shipping production-ready applications and mastering the craft of building scalable, user-centric software. Recently wrapped up **7 months** of intense development on **Ajroo** - a full-scale mobile app that taught me everything from state management at scale to deployment pipelines. It's live, it's real, and it's mine.
 
-<h2>“An idiot admires complexity, while a genius appreciates simplicity.”</h2> 
+Right now, I'm working on something different: **teaching**. I'm creating a React tutorial series for fellow university students who know the basics but struggle to build actual projects. The goal? Not just to teach React, but to teach the most valuable skill in tech - **how to read documentation**. Because frameworks change, but knowing how to learn never goes out of style.
+
+I used to paint sceneries with watercolors 🎨. Now I paint application UIs. Different canvas, same attention to detail.
+
+---
+
+### 🎯 Current Focus
+
+```javascript
+const hasan = {
+  mastering: ["React", "React Native", "Node.js", "MongoDB", "Express"],
+  building: ["YouTube React course for students", "More full-stack projects"],
+  philosophy: "Documentation first, Stack Overflow second",
+  nextMilestone: "Becoming a sophisticated engineer in the MERN stack",
+  status: "Shipping code, not excuses"
+};
+```
+
+---
+
+### 🏆 Recent Wins
+
+**Ajroo Mobile App** - My biggest accomplishment yet. Seven months of:
+- Building a complete mobile application from scratch with React Native
+- Implementing complex state management and real-time features
+- Designing intuitive UI/UX that users actually love
+- Handling authentication, API integration, and deployment
+- Debugging, refactoring, and polishing until it was perfect
+- Shipping to production and learning what "production-ready" really means
+
+This wasn't just a project - it was a masterclass in patience, problem-solving, and pushing through when Stack Overflow has no answers.
 
 ---
 
@@ -82,35 +111,67 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
-### 🚀 Current Focus
+---
 
-- 🛠 Creating mobile-first UIs with **React Native**
-- 🎯 Building clean, scalable front-end systems
-- 📐 Applying UX principles to real-world apps
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanAlasker&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=HasanAlasker&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlasker&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+### 💡 Philosophy
+
+I believe in **learning how to learn**. Frameworks come and go, but understanding how to read documentation, debug problems, and teach yourself - that's forever. 
+
+I don't wait for tutorials to exist. I read the docs, break things, fix them, and ship. That's how you grow.
+
+---
+
+### 🤝 Open to Collaboration?
+
+Not right now - I'm heads down mastering my stack and creating content. But I'm always open to connecting with fellow developers, especially if you're:
+- Building something ambitious with React/React Native
+- Interested in teaching and helping other developers grow
+- Passionate about clean code and good UX
+
+Hit me up, let's stay connected. When the time's right, we'll build something cool together.
+
+---
+
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://hasan-alasker.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-View_My_Work-blue?style=for-the-badge"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/hasan-alasker-58682335a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  
   <a href="mailto:hasanalasker.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HasanAlasker">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-
+<p align="center">
+  <em>Based in Jordan 🇯🇴 • Building for the world 🌍</em>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HasanAlasker&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HasanAlasker&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p align="center">
+  <sub>If you found something useful here, drop a ⭐ on a repo. It means more than you think.</sub>
+</p>
