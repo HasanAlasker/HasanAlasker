@@ -18,7 +18,7 @@
 - 🌐 Developed multiple professional websites, with a current focus on cross-platform mobile development. 
 - 📁 [Hasan's Portfolio](https://hasan-alasker.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasan-alasker-58682335a/)
-- ✉️ Contact: hasanalasker.contact@gmail.com  
+- ✉️ hasanalasker.contact@gmail.com  
 
 <h2>“An idiot admires complexity, while a genius appreciates simplicity.”</h2> 
 
