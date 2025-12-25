@@ -51,6 +51,14 @@ const hasan = {
 
 This wasn't just a project - it was a masterclass in patience, problem-solving, and pushing through when Stack Overflow has no answers.
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.hasan_alasker.Ajroo">
+    <img src="https://img.shields.io/badge/Google_Play-Download_Ajroo-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+  <br/>
+  <sub>📍 Available in Jordan only</sub>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
