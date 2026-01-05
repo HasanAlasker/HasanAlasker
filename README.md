@@ -137,23 +137,8 @@ I don't wait for tutorials to exist. I read the docs, break things, fix them, an
   <br/>
 </p>
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HasanAlasker&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🤝 Open to Collaboration?
-
-Not right now - I'm heads down mastering my stack and creating content. But I'm always open to connecting with fellow developers, especially if you're:
-- Building something ambitious with React/React Native
-- Interested in teaching and helping other developers grow
-- Passionate about clean code and good UX
-
-Hit me up, let's stay connected. When the time's right, we'll build something cool together.
-
----
 
 ### 📫 Let's Connect
 
