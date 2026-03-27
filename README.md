@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hasan Alasker
-<img src="https://avatars.githubusercontent.com/u/148560423" width="120" style="border-radius: 50%" alt="Hasan Alasker"/>
+<!-- <img src="https://avatars.githubusercontent.com/u/148560423" width="120" style="border-radius: 50%" alt="Hasan Alasker"/> -->
 
-<br/>
+<!-- <br/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Engineer;Full-Stack+Developer;Mobile+Developer;React+%26+React+Native+Specialist;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hasan--alasker.netlify.app-blue?style=for-the-badge)](https://hasan-alasker.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge)](https://alasker.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasan-alasker-58682335a/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanalasker.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/HasanAlasker)
