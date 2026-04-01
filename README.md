@@ -42,16 +42,6 @@ const hasan = {
 
 ---
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HasanAlasker&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Flagship Project — Servio
 
 <div align="center">
@@ -153,18 +143,7 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HasanAlasker&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlasker&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB" height="180"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=HasanAlasker&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=FF6C37&currStreakLabel=61DAFB"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanAlasker&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6C37&area=true&hide_border=true"/>
-
 </div>
 
 ---
