@@ -72,13 +72,13 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 | Stat | Value |
 |------|-------|
 | REST API endpoints | 60+ |
-| App screens | 27 |
+| App screens | 30 |
 | Architecture | 3-tier (client → API → database) |
-| Status | 🧪 Closed testing on Google Play |
+| Status | Production |
 
 <div align="center">
 
-[![Servio Early Access](https://img.shields.io/badge/🔧_Servio-Request_Early_Access-FF6C37?style=for-the-badge)](https://github.com/HasanAlasker)
+[![Download Serivo](https://img.shields.io/badge/🔧_Download-Servio-FF6C37?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.hasan_alasker.Servio)
 
 </div>
 
