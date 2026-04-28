@@ -166,7 +166,8 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlasker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 
 </div>
----
+
+<br/>
 
 ## 💡 How I Think
 
