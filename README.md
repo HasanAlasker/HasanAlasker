@@ -139,13 +139,33 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanAlasker&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6C37&area=true&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HasanAlasker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=HasanAlasker&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
+
 </div>
 
+<br/>
+
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanAlasker&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6C37&area=true&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlasker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+
+</div>
 ---
 
 ## 💡 How I Think
