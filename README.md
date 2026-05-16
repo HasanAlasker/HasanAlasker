@@ -1,11 +1,8 @@
 <div align="center">
 
 # Hasan Alasker
-<!-- <img src="https://avatars.githubusercontent.com/u/148560423" width="120" style="border-radius: 50%" alt="Hasan Alasker"/> -->
 
-<!-- <br/> -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Engineer;Full-Stack+Developer;Mobile+Developer;React+%26+React+Native+Specialist;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%26+React+Native+Developer;Building+software+that+solves+real+problems;Focused+on+performance,+UX,+and+scalable+systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,184 +15,179 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanalasker.contact@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/HasanAlasker)
 
-<img src="https://komarev.com/ghpvc/?username=HasanAlasker&color=61DAFB&style=flat-square&label=Profile+Views"/>
-
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
-I'm a **Full-Stack & Mobile Developer** from Jordan 🇯🇴, deep in the **MERN + React Native** ecosystem — shipping production-grade applications, solving real problems, and constantly pushing my craft forward.
+I'm a full-stack and mobile developer from Jordan 🇯🇴 focused on building performant, scalable applications with strong user experience and clean architecture.
 
-I used to paint sceneries with watercolors 🎨. Now I architect application UIs and entire backends from scratch. Different canvas. Same obsession with detail.
+Most of my work lives in the React + React Native ecosystem, but I also enjoy backend architecture, realtime systems, and performance optimization.
+
+I used to paint landscapes with watercolor 🎨.  
+Now I design interfaces, engineer backend systems, and build products from scratch. Different medium. Same obsession with detail.
 
 ```javascript
 const hasan = {
-  focus: ["React", "React Native", "Node.js", "MongoDB", "Express"],
-
-  toolkit: ["Zustand", "Socket.IO", "JWT", "Firebase"],
-
-  currentlyOn: "Servio — smart vehicle maintenance platform",
-
-  sharpening: [
-    "Realtime architectures",
-    "Optimistic UI",
-    "State synchronization",
-    "Native mobile APIs",
-    "Performance optimization"
+  focus: [
+    "React",
+    "React Native",
+    "Node.js",
+    "MongoDB",
+    "Express"
   ],
 
-  philosophy: "Documentation first. Ship second. Never stop learning.",
+  toolkit: [
+    "Zustand",
+    "Socket.IO",
+    "Firebase",
+    "JWT"
+  ],
 
-  status: "Building for the world from Amman 🇯🇴"
+  currentlyBuilding: "Servio — vehicle maintenance platform",
+
+  exploring: [
+    "Realtime architectures",
+    "State synchronization",
+    "Native mobile APIs",
+    "Performance optimization",
+    "Scalable backend systems"
+  ],
+
+  philosophy: "Read the docs. Build. Break things. Learn."
 };
 ```
 
 ---
 
-## 🚀 Flagship Project — Servio
+# 🚀 Featured Project — Servio
 
 <div align="center">
 
 ### 🔧 Smart Maintenance. Safer Drives.
-*Track your vehicle, never miss a service, connect with trusted mechanics — all in one place.*
+
+*Vehicle maintenance tracking, booking, reminders, and service management in one mobile platform.*
 
 </div>
 
-Servio is my most technically demanding project to date. A **full-stack mobile platform** — every line of code, every API endpoint, every screen, built solo from the ground up.
+## 📱 Overview
 
-**What Servio does:**
-- 🚘 Multi-vehicle management with complete per-vehicle service history
-- 🧠 Smart algorithm that combines **time + mileage** to calculate the next due maintenance — runs nightly via cron job
-- 🔔 Push notifications via **Firebase Cloud Messaging** + OS calendar sync
-- 🏪 Location-based service marketplace with reviews and turn-by-turn directions
-- 📅 Full booking system — request, accept, cancel, review
+Servio is a full-stack mobile application built with React Native and Node.js.
 
-**What building Servio taught me:**
-- ⚡ **Optimistic updates** — UI responds instantly, syncs in the background
-- 🧩 Global state architecture with Zustand — scalable client-side state without Redux complexity
-- 🏎️ **Performance optimization & prefetching** — dramatically reduced loading times
-- 📱 Deep dives into **native mobile APIs**
-- 🔐 Production-grade security: JWT, bcrypt, rate limiting, request logging, Joi validation
-- 🎨 Leveled-up design instincts — from Figma to polished screens
+The platform helps users:
+- Track vehicle maintenance history
+- Receive maintenance reminders based on mileage + time
+- Book appointments with service providers
+- Discover nearby mechanics and workshops
+- Manage multiple vehicles in one place
 
-**By the numbers:**
+---
 
-| Stat | Value |
-|------|-------|
-| REST API endpoints | 60+ |
-| App screens | 30 |
-| Architecture | 3-tier (client → API → database) |
+## ⚙️ Technical Highlights
+
+- 🧩 Global state architecture with Zustand
+- ⚡ Optimistic UI updates for smoother UX
+- 🔔 Push notifications with Firebase Cloud Messaging
+- 📅 Calendar integration for upcoming services
+- 🛡️ JWT authentication + bcrypt password hashing
+- 🚦 Rate limiting, request logging, and Joi validation
+- 🗺️ Location-based marketplace features
+- 🧠 Cron-based maintenance scheduling system
+- 📦 RESTful API architecture
+
+---
+
+## 🏗️ Architecture
+
+```text
+Mobile Client (React Native)
+        ↓
+REST API (Node.js / Express)
+        ↓
+MongoDB Database
+        ↓
+Firebase Cloud Messaging
+```
+
+---
+
+## 📊 Project Snapshot
+
+| Category | Details |
+|---|---|
+| Platform | Mobile + Web |
+| Stack | MERN + React Native |
+| Screens | 30+ |
+| State Management | Zustand |
+| Notifications | Firebase |
+| Architecture | 3-tier |
 | Status | Production |
-
-<div align="center">
-
-[![Download Serivo](https://img.shields.io/badge/🔧_Download-Servio-FF6C37?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.hasan_alasker.Servio)
-
-</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core**
+### Frontend
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+### Tools
 
-**Tools & Libraries**
-
-<div align="center">
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-**Deployment**
-
-<div align="center">
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
-</div>
-
-**Also worked with**
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
 ---
-## 📊 GitHub Stats
+
+## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HasanAlasker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 
 <img src="https://streak-stats.demolab.com?user=HasanAlasker&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanAlasker&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6C37&area=true&hide_border=true"/> </div>
 
 </div>
 
-<br/>
+---
 
+## 🧠 Currently Exploring
 
+- Rust
+- Realtime synchronization systems
+- Backend scalability patterns
+- Mobile performance profiling
+- Offline-first application patterns
 
-<br/>
+---
 
-<div align="center">
+## 💡 Philosophy
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanAlasker&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FF6C37&area=true&hide_border=true"/>
+Frameworks change constantly.
 
-</div>
+The skill that lasts is learning how to:
+- read documentation
+- debug systems
+- understand tradeoffs
+- build reliable software
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlasker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-
-</div>
-
-<br/>
-
-## 💡 How I Think
-
-I believe in **learning how to learn**. Frameworks change. Syntax gets deprecated. But knowing how to read documentation, debug the undocumented, and teach yourself — that's the skill that doesn't expire.
-
-I don't wait for tutorials. I read the docs, break things, fix them, and ship. That's the loop. That's how you grow.
+I learn best by building real projects, solving problems, and iterating fast.
 
 ---
 
 <div align="center">
 
-*Based in Jordan 🇯🇴 · Building for the world 🌍*
-
-*If something here was useful — drop a ⭐ on a repo. It means more than you think.*
+Building from Jordan 🇯🇴 for users everywhere 🌍
 
 </div>
