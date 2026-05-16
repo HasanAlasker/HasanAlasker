@@ -32,11 +32,23 @@ I used to paint sceneries with watercolors 🎨. Now I architect application UIs
 
 ```javascript
 const hasan = {
-  focus:       ["React", "React Native", "Node.js", "MongoDB", "Express"],
+  focus: ["React", "React Native", "Node.js", "MongoDB", "Express"],
+
+  toolkit: ["Zustand", "Socket.IO", "JWT", "Firebase"],
+
   currentlyOn: "Servio — smart vehicle maintenance platform",
-  sharpening:  ["Optimistic updates", "Prefetching", "Native mobile APIs", "Performance optimization"],
-  philosophy:  "Documentation first. Ship second. Never stop learning.",
-  status:      "Building for the world from Amman 🇯🇴"
+
+  sharpening: [
+    "Realtime architectures",
+    "Optimistic UI",
+    "State synchronization",
+    "Native mobile APIs",
+    "Performance optimization"
+  ],
+
+  philosophy: "Documentation first. Ship second. Never stop learning.",
+
+  status: "Building for the world from Amman 🇯🇴"
 };
 ```
 
@@ -62,6 +74,7 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 
 **What building Servio taught me:**
 - ⚡ **Optimistic updates** — UI responds instantly, syncs in the background
+- 🧩 Global state architecture with Zustand — scalable client-side state without Redux complexity
 - 🏎️ **Performance optimization & prefetching** — dramatically reduced loading times
 - 📱 Deep dives into **native mobile APIs**
 - 🔐 Production-grade security: JWT, bcrypt, rate limiting, request logging, Joi validation
@@ -94,6 +107,8 @@ Servio is my most technically demanding project to date. A **full-stack mobile p
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
