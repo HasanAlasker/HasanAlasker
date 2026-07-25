@@ -33,6 +33,7 @@ const hasan = {
   focus: [
     "React",
     "React Native",
+    "Next.js"
     "Node.js",
     "MongoDB",
     "Express"
