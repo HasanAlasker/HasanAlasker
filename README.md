@@ -50,6 +50,7 @@ const hasan = {
 
   exploring: [
     "Realtime architectures",
+    "Offline-first architectures",
     "State synchronization",
     "Native mobile APIs",
     "Performance optimization",
